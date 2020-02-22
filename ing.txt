@@ -1,0 +1,756 @@
+9 calc e alg lin
+1: Numeri naturali
+2: Calcolo combinatorio
+3: Dai numeri naturali ai numeri interi
+4: Dai numeri interi ai numeri razionali
+5: La rappresentazione decimale
+6: Il campo dei numeri reali
+7: Disuguaglianze
+8: Funzioni e successioni reali
+9: Limite di successioni (Prima parte)
+10: Limite di successioni (Seconda parte)
+11: Limite di funzioni
+12: Estensione della nozione di limite
+13: Teoremi sui limiti (Prima parte)
+14: Teoremi sui limiti (Seconda parte)
+15: Teoremi sui limiti (Terza parte)
+16: Proprietà delle funzioni continue su un intervallo
+17: Introduzione al concetto di spazio vettoriale
+18: Spazi vettoriali, dipendenza ed indipendenza lineare
+19: Generatori, basi e dimensione di uno spazio vettoriale
+20: Matrici (I parte): rango e riduzione
+21: Matrici (II parte): le operazioni
+22: Matrici (III parte): l'inversa e la trasposta
+23: Il concetto di applicazione lineare
+24: Applicazioni lineari e matrici
+25: Sistemi lineari (I parte): risoluzione dei sistemi ridotti
+26: Sistemi lineari (II parte) - Teorema di Rouché - Capelli e incognite libere
+27: Sistemi lineari (III parte): esempi ed applicazioni
+28: Il determinante di una matrice quadrata
+29: La regola di Cramer
+30: I numeri complessi (I parte)
+31: I numeri complessi (II parte)
+32: Autovalori ed autovettori di un endomorfismo
+33: La diagonalizzazione delle matrici quadrate
+34: Il concetto di derivata
+35: Teoremi sulle derivate
+36: Derivazione delle funzioni composte
+37: Massimi e minimi
+38: Il teorema del valor medio
+39: I teoremi di L'Hospital
+40: Concavità e convessità
+41: Grafici di funzioni (Prima parte)
+42: Grafici di funzioni (Seconda parte)
+43: Definizione di integrale
+44: Il teorema fondamentale del calcolo integrale
+45: Proprietà dell'integrale
+46: Integrazione per parti e per sostituzione
+47: Estensione della nozione di integrale
+48: Applicazioni del calcolo integrale ( Prima parte)
+49: Applicazioni del calcolo integrale ( Seconda parte)
+
+
+
+9 fisica nuova v
+1: Introduzione
+2: Elementi di calcolo vettoriale e differenziale
+3: Misura di grandezze fisiche
+4: Statistica e cinematica
+5: Meccanica
+6: Lavoro ed energia
+7: Energia potenziale
+8: Potenziale e campi
+9: Forze apparenti e moto circolare
+10: Momento angolare e seconda equazione cardinale
+11: La legge di gravitazione universale - Parte I
+12: La legge di gravitazione universale - Parte II
+13: Corpi rigidi Parte I
+14: Corpi rigidi Parte II
+15: Corpi rigidi Parte III
+16: Idrostatica
+17: Dinamica dei fluidi
+18: Oscillatore armonico
+19: Onde e oscillazioni
+20: Termodinamica - Parte I
+21: Termodinamica - Parte II
+22: Termodinamica - Parte III
+23: Termodinamica - Parte IV
+24: Termodinamica - Parte V
+25: Elettrostatica - Parte I
+26: Elettrostatica - Parte II
+27: Elettrostatica - Parte III
+28: Elettrostatica - Parte IV
+29: Elettrostatica - Parte V
+30: Corrente elettrica
+31: Circuiti elettrici e loro misura
+32: Magnetostatica
+33: Magnetostatica - Parte II
+34: Magnetostatica - Parte III
+35: Magnetostatica - Parte IV
+36: Campi magnetici lentamente variabili nel tempo
+37: Circuiti in corrente alternata
+38: Circuiti in corrente alternata - Parte II
+39: Campi magnetici ed elettrici variabili nel tempo
+40: Le equazioni di Maxwell
+41: Luce ed onde elettromagnetiche
+42: Luce visibile ed infrarossa
+43: Radiazione elettromagnetica ad alta frequenza
+44: Interazione, Radiazione, Materia
+45: Ottica
+46: Ottica geometrica Parte I
+47: Ottica geometrica Parte II
+48: Strumenti ottici
+49: Interferenza
+50: Diffrazione
+
+
+9 chimica
+1: Progettare il mondo molecolare: un'introduzione
+2: Struttura atomica e ordine tra gli elementi
+3: Struttura atomica: dalle orbite agli orbitali
+4: Costruire con gli atomi: strutture molecolari
+5: Dalle strutture molecolari alle forze intermolecolari
+6: Le forze intermolecolari
+7: Dalle osservazioni macroscopiche alle osservazioni microscopiche
+8: Uno sguardo al mondo molecolare
+9: Interazione fra molecole e radiazione elettromagnetica
+10: Quando gli atomi incontrano la geometria: ordine e disordine
+11: Vedere con i Raggi X
+12: Difetti e proprietà dei materiali
+13: Le reazioni chimiche
+14: Le reazioni chimiche: il possibile e il reale
+15: Le reazioni chimiche: abbattere le barriere
+16: Le reazioni chimiche: la polimerizzazione
+17: Le reazioni chimiche: verso l'equilibrio
+18: Conversione energia chimica - energia elettrica
+19: Condurre l'elettricità
+20: Dai legami alle bande
+21: La chimica per il patrimonio culturale
+22: Interazione materiale-ambiente
+23: Interazione di lungo periodo materiale-ambiente
+24: Modifiche superficiali dei materiali
+25: Acque per uso industriale (I parte)
+26: Acque per uso industriale (II parte)
+27: Acque per uso industriale (III parte)
+28: Acque per uso industriale (IV parte)
+29: Acque per uso industriale (V parte)
+30: Diagrammi di fase binari (I parte)
+31: Diagrammi di fase binari (II parte)
+32: Diagrammi di fase binari (III parte)
+33: Materiali ceramici (I parte)
+34: Materiali ceramici (II parte)
+35: Materiali ceramici (III parte)
+36: Materiali refrattari (I parte)
+37: Materiali refrattari (II parte)
+38: Vetro
+39: Leganti idraulici
+40: Cemento Portland (I parte)
+41: Cemento Portland (II parte)
+42: Materiali polimerici (I parte)
+43: Materiali polimerici (II parte)
+44: Materiali polimerici (III parte) - Materiali compositi
+
+9 informatica
+1: Concetti di base e introduttivi
+2: Architettura degli elaboratori I
+3: Architettura degli elaboratori II
+4: Codici numerici I
+5: Codici numerici II
+6: Codifica testi e immagini I
+7: Codifica immagini II e multimedialità
+8: L'algebra di Boole. Gli operatori logici. Le unità elementari di memoria (registri)
+9: L’unità di elaborazione
+10: La struttura del calcolatore e il software
+11: Trasmissione dati
+12: Internet
+13: La sicurezza di internet
+14: I progressi delle tecnologie dell’informazione
+15: Le applicazioni del terzo millennio
+16: Una nuova rivoluzione industriale
+17: Linguaggio C - Caratteristiche
+18: Problem solving e diagrammi di flusso
+19: Diagrammi di flusso - Esempi
+20: Istruzioni elementari
+21: Istruzioni condizionali I (if-then-else)
+22: Istruzioni condizionali II (if-then-else e switch)
+23: Cicli (while)
+24: Cicli (do-while)
+25: Cicli annidati
+26: Istruzione for
+27: Esercizi sull'istruzione for
+28: Vettori
+29: Esercizi sui vettori I
+30: Esercizi sui vettori II
+31: Funzioni I
+32: Funzioni II
+33: Puntatori
+34: Matrici
+35: Esercizi sulle matrici
+36: Caratteri
+37: Stringhe
+38: Esercizi sulle stringhe
+39: File
+40: Esercizi sui file I
+41: Esercizi sui file II
+42: Tipi aggregati
+43: Esercizi riassuntivi
+
+9 met mat
+1: Serie
+2: Criteri di convergenza
+3: Polinomi di Taylor (Prima parte)
+4: Polinomi di Taylor (Seconda parte)
+5: Serie di Taylor (Prima parte)
+6: Serie di Taylor (Seconda parte)
+7: Approssimazione delle funzioni elementari
+8: Struttura di R^n
+9: Continuità e differenziabilità di funzioni di più variabili
+10: Conseguenze fondamentali della continuità e della differenziazione delle funzioni di più variabili
+11: Calcolo differenziale per funzioni di più variabili (I parte)
+12: Calcolo differenziale per funzioni di più variabili (II parte)
+13: Calcolo differenziale per funzioni di più variabili (III parte)
+14: Calcolo differenziale per funzioni di più variabili (IV parte)
+15: Calcolo differenziale per funzioni di più variabili (V parte)
+16: Equazioni differenziali ordinarie
+17: Equazioni differenziali ordinarie. Altri tipi integrabili per quadratura
+18: Sistemi di equazioni ed equazioni differenziali lineari
+19: Sistemi di equazioni ed equazioni differenziali lineari a coefficienti costanti (I parte)
+20: Sistemi di equazioni ed equazioni differenziali lineari a coefficienti costanti (II parte)
+21: Integrale (di Riemann) per funzioni di due o tre variabili su rettangoli
+22: Formule di riduzione per integrali doppi e tripli
+23: Cambiamento di variabili per integrali doppi e tripli
+
+9 alg e pro
+1: C avanzato
+2: Allocazione dinamica della memoria
+3: Ricorsione e programmi ricorsivi
+4: Programmazione modulare
+5: Liste lineari I
+6: Liste lineari II
+7: Tipo di dato astratti I - pile e code
+8: Tipo di dato astratti II - code a priorità e alberi
+9: Algoritmi - introduzione e definizioni
+10: Analisi di complessità
+11: Analisi di programmi ricorsivi: ricorrenze
+12: Algoritmi di ordinamento I
+13: Algoritmi di ordinamento II
+14: Algoritmi di ordinamento III
+15: Insiemi dinamici e dizionari
+16: Alberi binari di ricerca
+17: Tabelle Hash
+18: Paradigmi algoritmici: Programmazione dinamica
+19: Paradigmi algoritmici II: Il paradigma Greedy
+20: Paradigmi algoritmici III: Backtracking
+21: I Grafi - Prima parte
+22: I Grafi - Seconda parte
+23: Visite di grafi
+24: Alberi di copertura minimi
+25: Percorsi minimi in un grafo
+26: Teoria della complessità
+27: NP completezza e algoritmi approssimati
+
+3 ing tec
+1: Introduzione alla lingua e regole fondamentali 
+2: La struttura delle quattro forme della frase in inglese 
+3: Le due forme del tempo: semplice e progressiva 
+4: Passato, passato prossimo e trapassato 
+5: Il futuro 
+6: Condizionale,imperativo, infinito, gerundio, participio
+7: Pronomi e aggettivi interrogativi e relativi 
+8: I modali: la capacità, la probabilità,la possibilità 
+9: I modali: il dovere, la necessità, l'obbligo, la deduzione 
+10: Le proposizioni subordinate
+11: Costruzioni speciali
+12: Discorso indiretto
+13: Pronomi e aggettivi indefiniti
+14: Periodo ipotetico
+15: Revisione generale 
+
+9 sist inf e database
+1: Sistemi Informativi. Introduzione
+2: Tipologie Sistemi informativi
+3: Introduzione alla pianificazione
+4: Pianificazione Sistemi informativi (I parte)
+5: Pianificazione Sistemi informativi (II parte)
+6: Pianificazione Sistemi informativi (III parte)
+7: Lo studio di fattibilità
+8: Pianificazione Dei Sistemi Informativi. Un caso di studio
+9: Sistemi di gestione di workflow (I parte)
+10: Sistemi di gestione di workflow (II parte)
+11: Sistemi di gestione di workflow (III parte)
+12: Wide Workflow Model (I parte)
+13: Wide Workflow Model (II parte)
+14: Wide Workflow Model (III parte)
+15: Reingegnerizzazione dei processi
+16: I costi dei sistemi informativi (I parte)
+17: I costi dei sistemi informativi (II parte)
+18: I costi dei sistemi informativi (III parte)
+19: I costi dei sistemi informativi (IV parte)
+20: Architetture (I parte)
+21: Architetture (II parte)
+22: Architetture (III parte)
+23: Architetture (IV parte)
+24: Sistemi ERP (I parte)
+25: Sistemi ERP (II parte)
+26: Basi di Dati
+27: Sistemi di Basi di Dati
+28: Modelli e linguaggi per Basi di Dati
+29: Il Modello relazionale
+30: Vincoli di integrità (I parte)
+31: Vincoli di integrità (II parte)
+32: Algebra relazionale (I parte)
+33: Algebra relazionale (II parte)
+34: Algebra relazionale (III parte)
+35: SQL (I parte)
+36: SQL (II parte)
+37: SQL (III parte)
+38: SQL (IV parte)
+39: SQL (V parte)
+40: Progettazione di basi di dati. Metodologie e modelli
+41: Il Modello Entità-Relazione. I costruttori di base
+42: Il Modello Entità-Relazione. Gli altri costruttori
+43: Progettazione concettuale (I parte)
+44: Progettazione concettuale (II parte)
+45: La progettazione logica (I parte)
+46: La progettazione logica (II parte)
+47: La progettazione logica (III parte)
+48: La normalizzazione (I parte)
+49: La normalizzazione (II parte)
+50: La progettazione di Basi di Dati. Un esempio completo
+
+9 elettrotecn
+1: Introduzione al corso; La tensione
+2: La corrente, la legge di Ohm ed il bipolo resistore
+3: La legge di Joule; il Multimetro virtuale
+4: Serie e parallelo; bipolo equivalente
+5: I generatori; classificazione dei bipoli
+6: Le leggi di Kirchhoff: il grafo della rete
+7: Equazioni delle incognite tensioni e correnti
+8: Metodi dei potenziali ai nodi e delle correnti alle maglie
+9: Teorema di Tellegen ed altri teoremi
+10: Caratterizzazione esterna delle reti
+11: Metodi sistematici per la risoluzione delle reti
+12: Equazioni risolventi in termini matriciali
+13: I bipoli nella realtà
+14: N-poli
+15: Analisi e sintesi del N-polo
+16: Introduzione degli n-bipoli o n-porte
+17: Altre rappresentazioni dei doppi bipoli
+18: Generatori pilotati e amplificatori operazionali
+19: Bipoli in regime dinamico
+20: Circuiti del primo ordine
+21: Circuiti del secondo ordine
+22: Le oscillazioni nei circuiti del secondo ordine
+23: I bipoli attivi in regime dinamico
+24: Introduzione al metodo simbolico
+25: Vettori Rotanti
+26: Diagrammi fasoriali; il circuito RLC al variare dei parametri
+27: Il Circuito RLC come filtro
+28: Strumenti di misura in C.A.
+29: Il rifasamento; l'accoppiamento mutuo
+30: Circuiti equivalenti dell'accoppiamento mutuo
+31: Circuiti equivalenti dei componenti; il trasformatore
+32: Sistemi trifasi simmetrici ed equilibrati
+33: Sistemi trifasi squilibrati; misura della potenza nei sistemi trifasi
+34: Dinamica dei circuiti di ordine superiore
+35: Introduzione a SPICE
+36: Ancora su SPICE
+37: I segnali impulsivi
+38: Il bilanciamento degli impulsi
+39: La trasformata di Laplace
+40: Ancora sulla trasformata di Laplace
+
+6 econ e gest imp
+1: Sistema economico: i principali indicatori macroeconomici
+2: Sistema economico: inflazione, crescita, disoccupazione e ciclo economico
+3: Sistema economico integrazione tra le variabili macroeconomiche
+4: Sistema economico: circuito economico e gli operatori famiglie e imprese
+5: Sistema economico: circuito economico e l'operatore pubblica amministrazione
+6: Sistema economico: circuito economico e l'operatore nel resto del mondo
+7: Sistema economico: circuito economico e struttura finanziaria
+8: Il mercato:domanda, offerta, equilibrio
+9: Il mercato: caratteristiche dell'equilibrio e meccanismi di convergenza
+10: Il mercato: Fallimenti (aspettative, informazione incompleta e potere di mercato)
+11: L'Impresa: tecnologia (prima parte)
+12: L'Impresa tecnologia (seconda parte)
+13: L'impresa: costi
+14: L'impresa: ricavi (prima parte)
+15: L'impresa: ricavi (seconda parte)
+16: Contabilita' generale e bilancio. Il metodo della partita doppia
+17: Contabilita' generale e bilancio. Struttura del piano dei conti - I parte
+18: Contabilita' generale e bilancio. Struttura del piano dei conti - II parte
+19: Contabilita' generale e bilancio. Principi e schemi del bilancio
+20: Analisi del bilancio. Voci dell'attivo patrimoniale
+21: Analisi del bilancio. Voci del passivo patrimoniale e del conto economico
+22: Analisi del bilancio. Struttura del capitale
+23: Analisi del bilancio. Struttura del conto economico e produttivita'
+24: Analisi del bilancio. Produttivita' e redditivita'
+25: Contabilita' industriale. Classificazione dei costi
+26: Contabilita' industriale. Valutazione rimanenze e riparto dei costi indiretti per centri di costo
+27: Contabilita' industriale. Riparto dei costi indiretti per attivita' e per margini
+28: Programmazione e controllo. Break-even analysis
+29: Programmazione e controllo. Budgeting e controllo di gestione
+30: Programmazione a lungo termine. Capital budgeting
+
+9 ing sw e oop
+1: Introduzione al corso
+2: Gli strumenti di Java
+3: Programmazione ad oggetti. Scheda introduttiva
+4: Oggetti, classi e messaggi
+5: Ereditarietà e suo uso
+6: Introduzione a UML
+7: Un piccolo progetto software
+8: Usare gli oggetti
+9: Oggetti in profondità
+10: Oggetti in profondità (II parte)
+11: Ereditarietà
+12: Eccezioni
+13: Classi Java fondamentali
+14: Input/Output
+15: Collezioni di dati
+16: Gestione del testo
+17: Interfacce grafiche. Scheda introduttiva
+18: Contenitori e contenuto
+19: Rispondere agli eventi
+20: Gestire la disposizione
+21: Applet
+22: Integrazione con le basi di dati. Scheda introduttiva
+23: SQL e Java
+24: Accedere alle tabelle
+25: Il ruolo del driver
+26: Le transazioni
+27: Il processo di sviluppo del software
+28: Versioni e configurazioni
+29: Strumenti per controllo versioni
+30: Analisi e specifica dei requisiti
+31: Diagrammi di flusso dei dati
+32: Specifiche a stati finiti
+33: I design pattern
+34: Alcuni pattern elementari
+35: Pattern creazionali
+36: Pattern strutturali I
+37: Pattern strutturali II
+38: Pattern comportamentali I
+39: Pattern comportamentali II
+40: Controllo qualità
+41: Processo di test
+42: Test funzionale
+43: Test combinatorio
+44: Test basato su modelli
+45: Test strutturale
+46: Ispezione
+
+9 compl mat
+1: Numeri complessi: generalità
+2: Potenze e radici di numeri complessi
+3: Funzioni elementari dei numeri complessi
+4: Funzioni a valori complessi . Funzioni di variabile reale a valori reali o complessi
+5: Analisi Armonica
+6: Polinomi di Fourier
+7: Polinomio di Fourier di un segnale x(t). Disuguaglianza di Bessel
+8: Serie di Fourier: generalità
+9: Convergenza puntuale e convergenza uniforme delle serie di Fourier
+10: Funzioni di variabile complessa. Integrali di linea in campo
+11: Funzioni analitiche. Definizione di derivata e di olomorfia. Analiticità
+12: Formule integrali di Cauchy. Esistenza delle derivate di ogni ordine per le funzioni olomorfe
+13: Serie di Laurent. Prova della formula di Eulero
+14: Sviluppo di Laurent: zeri e poli primo ordine
+15: Sviluppo di Laurent: poli di ordine qualunque e singolarità essenziali
+16: Singolarità non uniformi e singolarità non isolate. Il punto all'infinito
+17: Teorema dei residui
+18: Integrali impropri con il metodo dei residui. Lemma di Jordan
+19: Lemma di Jordan per il calcolo di integrali lungo cammini paralleli all'asse immaginario
+20: Decomposizione in fratti semplici con il metodo dei residui
+21: Decomposizione in fratti multipli con il metodo dei residui
+22: Decomposizione in fratti semplici. Poli complessi coniugati
+23: Trasformata di Fourier. Definizione per funzioni e per distribuzioni. Antitrasformata di Fourier
+24: Proprietà della trasformata di Fourier
+25: Ulteriori proprietà della trasformata di Fourier. Proprietà di simmetria, convoluzione, prodotto
+26: Trasformata di Laplace. Definizione di trasformata di Laplace bilatera per funzioni e distribuzioni
+27: Proprietà della trasformata di Laplace. Hermitianeità e convoluzione
+28: Esercizi di trasformate di Laplace
+29: Antitrasformata di Laplace
+
+6 prob stat
+1: Primi passi
+2: Le diverse concezioni della probabilità
+3: Gli eventi come "proposizioni"
+4: Assegnazioni coerenti di probabilità
+5: Numeri aleatori e previsione
+6: Varianza e covarianza
+7: Probabilità condizionata
+8: Aggiornamento delle probabilità - Teorema di Bayes
+9: Indipendenza stocastica di eventi
+10: Estrazioni da urne
+11: Distribuzioni binominiale e ipergeometrica
+12: Distribuzioni Discrete
+13: Probabilità nulle
+14: Numeri aleatori continui
+15: Distribuzioni continue
+16: La distribuzione normale
+17: Teoria dell'affidabilità
+18: Vettori aleatori
+19: Regressione
+20: Il campionamento statistico
+21: Funzioni di variabile aleatoria discreta
+22: Funzioni di variabile aleatoria continua
+23: Funzioni scalari di vettore aleatorio discreto
+24: Funzioni scalari di vettore aleatorio continuo
+25: Disuguaglianze fra variabili aleatorie discrete
+26: Disuguaglianze fra variabili aleatorie continue
+27: Variabili gaussiane multidimensionali
+28: Introduzione ai processi aleatori
+29: Processi di Markov
+
+9 elettr e mis
+1: Introduzione
+2: I semiconduttori drogati
+3: Il trasporto di carica nei semiconduttori
+4: La giunzione pn I
+5: La giunzione pn II
+6: Il transistore bipolare
+7: Il transistore bipolarecircuiti equivalenti
+8: Il sistema MOS
+9: Il transistore MOS struttura e funzionamento statico
+10: Il transistore MOS circuiti equivalenti
+11: I circuiti amplificatori
+12: L'amplificatore operazionale ideale
+13: L'uso del MOSFET come amplificatore
+14: Altri stadi amplificatori a MOSFET
+15: L'uso del transistore bipolare come amplificatore
+16: Altri stadi amplificatori a transistore bipolare
+17: Introduzione all'elettronica digitale l'inverter
+18: Dinamica, dissipazione ed interfacciamento di porte logiche
+19: Le porte logiche in tecnologia MOS
+20: I circuiti bistabili
+21: I comparatori di soglia
+22: La conversione AD e DA
+23: Esempi di convertitori
+24: I circuiti di memoria
+25: Le memorie ad accesso casuale
+26: Le ragioni della misura
+27: Progettazione ed esecuzione di una misura
+28: Organizzazione internazionale della metrologia
+29: Incertezza di misura. Il modello deterministico
+30: Incertezza di misura. Il modello probabilistico I
+31: Incertezza di misura. Il modello probabilistico II
+32: Caratteristiche metrologiche della strumentazione di misura
+33: L'oscilloscopio analogico I
+34: L'oscilloscopio analogico II
+35: L'oscilloscopio analogico III
+36: L'oscilloscopio digitale
+37: Voltmetri per grandezze alternative
+38: Multimetri analogici
+39: Multimetri digitali
+40: Metodi di confronto
+41: Misure nel dominio della frequenza: aspetti generali
+42: Analisi spettrale analogica - I parte
+43: Analisi spettrale analogica - II parte
+44: Analisi spettrale analogica - III parte
+45: Analisi spettrale numerica (aspetti teorici)
+46: Analisi spettrale numerica (aspetti di misura)
+47: Analisi spettrale numerica (misurazioni con finestre e strumentazione di misura)
+48: Sistemi automatici di misura
+49: Misurazioni sulle reti, contesto di misura
+50: Misurazioni sulle reti, strumenti e metodi
+
+9 sist op
+1: Concetti introduttivi - (prima parte)
+2: Concetti introduttivi - (seconda parte)
+3: Concetti introduttivi - (terza parte)
+4: Concetti introduttivi - (quarta parte)
+5: Proprietà dei processi - (prima parte)
+6: Proprietà dei processi - (seconda parte)
+7: Proprietà dei processi - (terza parte)
+8: Proprietà dei processi - (quarta parte)
+9: Proprietà dei processi - (quinta parte)
+10: Proprietà dei processi - (sesta parte)
+11: Processi nel S.O. Unix
+12: Interazioni fra processi in Unix I
+13: Interazioni fra processi in Unix II
+14: Threads nel S.O. Linux
+15: Sincronizzazione in Java
+16: Gestione della memoria. Introduzione
+17: Gestione della memoria. Parametri caratterizzanti
+18: Gestione della memoria. Tecnica delle partizioni
+19: Gestione della memoria. Segmentazione
+20: Gestione della memoria. Paginazione (prima parte)
+21: Gestione della memoria. Paginazione (seconda parte)
+22: Gestione della memoria. Conclusioni
+23: Gestione della memoria. Casi di studio
+24: Gestione dei dispositivi d'Ingresso/Uscita. Introduzione
+25: Gestione dei dispositivi d'Ingresso/Uscita. Device drive
+26: Gestione dei dispositivi d'Ingresso/Uscita. Conclusioni
+27: File system. Introduzione
+28: File system. Organizzazione
+29: File system. Unix (prima parte)
+30: File system. Unix (seconda parte)
+
+9 arch calc
+1: Hardware digitale
+2: Numeri Binari 1/2
+3: Numeri Binari 2/2
+4: Algebra booleana
+5: Porte logiche e funzioni booleane 1/2
+6: Porte logiche e funzioni booleane 2/2
+7: Semplificazione di funzioni booleane e mappe di Karnaugh
+8: Minimizzazione a livello di porte logiche
+9: Circuiti Combinatori 1/3
+10: Circuiti Combinatori 2/3
+11: Circuiti Combinatori 3/3
+12: Circuti sequenziali sincroni 1/3
+13: Circuti sequenziali sincroni 2/3
+14: Circuti sequenziali sincroni 3/3
+15: Circuti sequenziali sincroni: registri e contatori
+16: Memorie
+17: Dispositivi logico-programmabili
+18: Progetto al livello di trasferimento fra registri RTL
+19: Progetto al livello di trasferimento fra registri RTL - Esempi 1/2
+20: Progetto al livello di trasferimento fra registri RTL - Esempi 2/2
+21: Struttura di un calcolatore 1/2
+22: Struttura di un calcolatore 2/2
+23: Repertorio Istruzioni - Instruction Set Architecture (ISA) 1/5
+24: Repertorio Istruzioni - Instruction Set Architecture (ISA) 2/5
+25: Repertorio Istruzioni - Instruction Set Architecture (ISA) 3/5
+26: Repertorio Istruzioni - Instruction Set Architecture (ISA) 4/5
+27: Repertorio Istruzioni - Instruction Set Architecture (ISA) 5/5
+28: Operazioni di ingresso/uscita 1/2
+29: Operazioni di ingresso/uscita 2/2
+30: Software 1/2
+31: Software 2/2
+32: Struttura di base di un processore 1/3
+33: Struttura di base di un processore 2/3
+34: Struttura di base di un processore 3/3
+35: Introduzione al pipeline 1/2
+36: Introduzione al pipeline 2/2
+37: Sistema di ingresso e uscita 1/2
+38: Sistema di ingresso e uscita 2/2
+39: Sistema di Memoria 1/2
+40: Sistema di Memoria 2/2
+
+9 com elettr
+1: Cosa sono i segnali
+2: Segnali e sistemi lineari
+3: Transito dei segnali nei sistemi LP
+4: Il calcolo della convoluzione
+5: Lo sviluppo in serie di Fourier
+6: Serie di Fourier bilatera
+7: La trasformata di Fourier
+8: Proprietà della trasformata di Fourier
+9: Proprietà della trasformata di Fourier (seconda parte)
+10: Proprietà della trasformata di Fourier (terza parte)
+11: Alcune trasformate particolari
+12: Il teorema di Parseval
+13: Ancora sulla convoluzione
+14: Applicazioni della trasformata di Fourier
+15: La banda di un segnale
+16: Correlazione
+17: La funzione di trasferimento
+18: Analisi armonica generalizzata
+19: Il campionamento
+20: Il campionamento (parte seconda)
+21: I segnali modulati
+22: Modulazione angolare
+23: Esercitazione sulla trasformata di Fourier
+24: Esercitazione sulla convoluzione e sulla correlazione
+25: Sorgenti di informazione di tipo numerico
+26: Sorgenti di informazione di tipo analogico (I)
+27: Sorgenti di informazione di tipo analogico (II)
+28: Trasmissione di segnali analogici per via numerica (I)
+29: Trasmissione di segnali analogici per via numerica (II)
+30: Trasmissione di segnali analogici per via numerica (III)
+31: Il rumore degli apparati (I)
+32: Il rumore degli apparati (II)
+33: Il rumore degli apparati (III)
+34: Trasmissione di segnali analogici - cenni (I)
+35: Trasmissione di segnali analogici - cenni (II)
+36: Applicazioni delle modulazioni analogiche (I)
+37: Applicazioni delle modulazioni analogiche (II)
+38: Trasmissione di simboli isolati (I)
+39: Trasmissione di simboli isolati (II)
+40: Trasmissione di simboli isolati (III)
+41: Trasmissione di sequenze di simboli in banda base (I)
+42: Trasmissione di sequenze di simboli in banda base (II)
+43: Trasmissione di sequenze di simboli con modulazione (I)
+44: Trasmissione di sequenze di simboli con modulazione (II)
+45: Codifica di canale - cenni
+46: Trasmissioni numeriche esempi di applicazioni (I)
+47: Trasmissioni numeriche esempi di applicazioni (II)
+48: Trasmissioni numeriche esempi di applicazioni (III)
+49: Trasmissioni numeriche esempi di applicazioni (IV)
+
+9 teoria contr aut
+1: Definizione di Sistema
+2: I Sistemi allo studio
+3: Rappresentazioni approssimate
+4: Analisi nel tempo delle rappresentazioni lineari
+5: La matrice di transizione
+6: I modi naturali nei sistemi a tempo continuo
+7: La trasformata di Laplace nello studio dei sistemi a tempo continuo
+8: Il regime permanente e il comportamento in frequenza
+9: Analisi nel dominio complesso dei sistemi a tempo continuo
+10: Le rappresentazioni grafiche della risposta armonica
+11: La "trasformata zeta" nello studio dei sistemi a tempo discreto
+12: La stabilità: definizioni e condizioni
+13: La stabilità interna dei sistemi lineari
+14: I sistemi interconnessi: connessioni elementari e proprietà
+15: Esempi di schemi di controllo (I parte)
+16: Esempi di schemi di controllo (II parte)
+17: Esempi di schemi di controllo (III parte)
+18: Esempi di schemi di controllo (IV parte)
+19: Esempi di schemi di controllo (V parte)
+20: Introduzione all'analisi dei sistemi a retroazione
+21: Stabilità di sistemi a retroazione (I parte)
+22: Stabilità di sistemi a retroazione (II parte)
+23: Stabilità di sistemi a retroazione (III parte)
+24: Analisi della precisione (I parte)
+25: Analisi della precisione (II parte)
+26: Analisi della precisione (III parte)
+27: Analisi della risposta transitoria (Iparte)
+28: Analisi della risposta transitoria (IIparte)
+29: Funzioni di sensibilità
+30: Introduzione alla sintesi per tentativi
+31: Scelta della funzione anticipatrice
+32: Scelta della funzione attenuatrice
+33: Regolatori P.I.D.
+
+9 reti di calc
+1: Introduzione alle reti di calcolatori
+2: Architettura protocollare ISO/OSI
+3: Livello fisico
+4: Controllo dell’errore
+5: Ethernet e le reti IEEE 802.3. Medium access control
+6: Reti Ethernet e IEEE 802.3. - Logical Link Control Layer, Physical Layer, Dimensionamento della rete
+7: Interconnessione di LAN tramite bridge trasparenti. Espandere la rete oltre il dominio di collisione
+8: Il protocollo Spanning tree
+9: L’evoluzione di Ethernet/IEEE 802.3. Fast ethernet
+10: Evoluzione di Ethernet/IEEE 802.3. Gigabit speeds
+11: Reti Wireless - IEEE 802.11
+12: Internet e Internet Protocol Versione 4 (IPV4)
+13: Indirizzi IP
+14: Routing dei pacchetti IP
+15: ARP e ICMP
+16: Transport layer (il livello trasporto)
+17: TCP (Transport Control Protocol). Maggiori dettagli
+18: Domain Name System (DNS)
+19: Protocolli di livello applicativo e posta elettronica
+20: World Wide Web
+21: Assegnazione degli indirizzi e indirizzi privati
+22: Configurazione delle stazioni
+23: Algoritmi di routing
+24: Architettura e protocolli di routing in internet
+25: Protocolli di routing e servizi di consegna “speciali”
+26: Sicurezza delle informazioni
+27: Sicurezza di rete
+28: IP versione 6 (Ipv6) - Prima parte
+29: IP versione 6 (IPv6) - Seconda parte
+30: Mobilità nelle reti IP
+
+3 tirocinio
+????????
+
+3 prova
+?????????
+
+3 ulteriori
+?????????

@@ -8,7 +8,65 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
     font-family: "arial", "verdana";
     font-size: 1rem;
+    min-height: 101vh;
+}
+
+#layout-container {
+    max-width: 1500px;
+}
+
+#layout {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 2fr;
+    gap: 10px;
+    width: 100%;
+}
+
+.topics, .detail {
+    min-width: 10rem;
+    background: rgba(255, 255, 255, 0.8);
+    border: 1px solid #ccc;
+    border-radius: .2rem;
+}
+
+.detail {
+    padding: 1.2rem 1.5rem;
+    line-height: 1.3rem;
+}
+
+h4 {
+    margin: 0;
+    margin-top: 1rem;
+    padding: 0;
+    text-align: center;
+}
+
+.topics {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin-bottom: auto;
+}
+
+.topics ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    min-height: 16rem;
+}
+
+.topics ul li {
+    padding: .4rem 1rem;
+    cursor: default;
+}
+
+.topics ul li:nth-child(odd) {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+.topics ul li.selected {
+    background: rgba(73, 118, 216, 0.253);
 }
